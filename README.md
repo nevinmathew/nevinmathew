@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-Undergrad Student. Backend Engineer in Spring Boot. Designing scalable applications.
+Undergrad. Backend Engineer in Spring Boot. Designing scalable applications.
 
 
 # 💻 Tech Stack:
