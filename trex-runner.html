@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>T-Rex Runner</title>
+<style>
+body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+</head>
+<body>
+<script src="https://unpkg.com/trex-runner-js@latest/trex-runner.min.js"></script>
+<canvas id="trex-runner"></canvas>
+<script>
+var trexRunner = new TrexRunner();
+trexRunner.render(document.getElementById('trex-runner'));
+</script>
+</body>
+</html>
