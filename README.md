@@ -12,4 +12,4 @@ Undergrad. Backend Engineer in Spring Boot. Designing scalable applications.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nevinmathew&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![T-Rex Runner](https://github.com/wayou/t-rex-runner/raw/master/assets/trex.gif)](https://github.com/nevinmathew/blob/main/trex-runner.html)
+[![T-Rex Runner](https://camo.githubusercontent.com/f4410ad6798e64d80125ecbef547328f7ccd0e6756b71b8865e319d47696c1b7/68747470733a2f2f67697465652e636f6d2f736b796b65796a6f6b65722f506963436c6f75642f7261772f6d61737465722f696d672f64696e6f2e676966)](https://github.com/nevinmathew/blob/main/trex-runner.html)
