@@ -12,4 +12,4 @@ Undergrad. Backend Engineer in Spring Boot. Designing scalable applications.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nevinmathew&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Click on the image to play the T-Rex Runner game.
-[![T-Rex Runner](https://1.bp.blogspot.com/-MRVxDnK1fqc/X4MSW8kgV3I/AAAAAAAAGkI/3C_k7aVJmKAiCL3_1R4O654JGC1EF3NJgCLcBGAsYHQ/s600/python%2Bautomation%2Bchrome%2Bdino%2Bgame.gif)](http://wayou.github.io/t-rex-runner/)
+[![T-Rex Runner](https://www.webproeducation.org/wp-content/uploads/2016/12/google-chrome-dinosaur-game.gif)](http://wayou.github.io/t-rex-runner/)
