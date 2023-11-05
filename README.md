@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
 
-👋 Hello, fellow coders! Welcome to my GitHub space!
+Hello, fellow coders! Welcome to my GitHub space!
 I'm a Software Developer. With a trusty toolkit of Java, Spring Boot, and MySQL, I embark on quests to build robust and scalable solutions. 
 
 # Click on the image to play the T-Rex Runner game.
