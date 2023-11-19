@@ -11,6 +11,7 @@ I'm a Software Developer. With a trusty toolkit of Java, Spring Boot, and MySQL,
 [![T-Rex Runner](https://www.webproeducation.org/wp-content/uploads/2016/12/google-chrome-dinosaur-game.gif)](http://wayou.github.io/t-rex-runner/)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nevinmathew&theme=calm&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nevinmathew&theme=calm&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nevinmathew&theme=calm&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nevinmathew&theme=calm&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nevinmathew&theme=calm&hide_border=false)<br/>
